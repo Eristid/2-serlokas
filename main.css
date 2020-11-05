@@ -4,11 +4,12 @@ body {
 
     img {
         display: inline-block;
-        /* width: 200px; */
-        height: 300px;
+        /* width: 350px; */
+        height: 700px;
         object-fit: contain;
         float: left;
         margin-left: 120px;
+        margin-top: 20x;
     }
 
     div {
@@ -36,6 +37,8 @@ body {
 
     p {
         display: inline-block;
+        text-align: center;
+        width: 100%;
     }
 
 
